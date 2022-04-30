@@ -2,6 +2,7 @@
 
 int main()
 {
+    cout << 5 + 7;
     //They have to start with this
     std::cout << "Hello World!!!!!!";
 
