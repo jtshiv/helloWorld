@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cmath> //added to use advanced math functions
 
 using namespace std;
 int main()
